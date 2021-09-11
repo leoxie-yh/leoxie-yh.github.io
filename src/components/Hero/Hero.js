@@ -16,7 +16,7 @@ const Hero = (props) => (
         Avid robotics developer and control developer
         </SectionText>
         
-        <Button onClick={()=> window.location = '#projects'}>Resume</Button> 
+        <Button onClick={()=> window.location.href = 'https://drive.google.com/file/d/1dkJFg1Jc2smzwNi2h3MnAOUi1rgBlr8f/view?usp=sharing'}>Resume</Button> 
         <SectionDivider colorAlt />
       </LeftSection>
       
